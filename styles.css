@@ -3,6 +3,11 @@
   src: url('glacial-indifference/GlacialIndifference-Regular.otf');
 }
 
+@font-face {
+  font-family: essays1743;
+  src: url('essays1743/Essays1743.ttf');
+}
+
 html {
   scroll-behavior: smooth;
 }
