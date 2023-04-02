@@ -1,3 +1,8 @@
+@font-face {
+  font-family: GlacialIndifference;
+  src: url('glacial-indifference/GlacialIndifference-Regular.otf');
+}
+
 html {
   scroll-behavior: smooth;
 }
